@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Cade, and I'm a Front End Developer!
+
+- 🔭 I’m currently working on a Javascript certificate 
+- 🌱 I’m currently learning Japanese and Indonesian 
 <!--
 **CadetheCoder/CadetheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
