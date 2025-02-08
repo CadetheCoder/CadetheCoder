@@ -1,6 +1,6 @@
-## Cade Hultz
+## Hi There, I'm Cade 👋
 
-`I'm a Front End Developer!`
+`Front End Developer!`
 
 ### Languages and Tools
 
