@@ -11,8 +11,8 @@
 
 #
           
-- 🔭 I’m currently working on a Javascript certificate 
-- 🌱 I’m currently learning Japanese and Indonesian 
+• 🛠️ I’m currently building my portfolio projects 
+• 🧠 I’m currently learning 🇯🇵 and 🇮🇩
 <!--
 **CadetheCoder/CadetheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
