@@ -1,6 +1,12 @@
-## Hi there 👋
+## Cade Hultz
 
-My name is Cade, and I'm a Front End Developer!
+`I'm a Front End Developer!`
+
+### Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
+
 
 - 🔭 I’m currently working on a Javascript certificate 
 - 🌱 I’m currently learning Japanese and Indonesian 
