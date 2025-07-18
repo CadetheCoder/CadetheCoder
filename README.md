@@ -12,7 +12,7 @@
 #
           
 - 🛠️ I’m currently building my portfolio projects 
-- 🧠 I’m currently learning 🇯🇵 and 🇮🇩
+- 🧠 I’m currently learning React
 <!--
 **CadetheCoder/CadetheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
